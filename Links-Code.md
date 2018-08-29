@@ -13,6 +13,7 @@ https://2012r2std.oktaice.local/adfs/ls/idpinitiatedsignon?loginToRp=OktaIce
 # Lab 2-1 and 2-2
 
 Custom Username Format:
+
 String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com
 
 # Lab 3-2:
