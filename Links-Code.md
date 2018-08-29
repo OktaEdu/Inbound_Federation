@@ -5,7 +5,6 @@ ADFS Sign On URL:
 https://2012r2std.oktaice.local/adfs/ls/IdpInitiatedSignOnPage
 
 
-
 ADFS Config:
 
   IdP Issuer URI: http://2012r2std.oktaice.local/adfs/services/trust
