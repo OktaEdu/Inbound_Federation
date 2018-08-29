@@ -23,7 +23,7 @@ https://2012r2std.oktaice.local/adfs/ls/idpinitiatedsignon?loginToRp=OktaIce
 
 Custom Username Format:
 
-String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com
+String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com"
 
 # Lab 3-2
 ## Rebrand the Sign-In Widget Page and Login Container
