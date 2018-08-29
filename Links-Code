@@ -20,7 +20,7 @@ String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com
 ### Step 2:
 
 <style>
-  body {
+    body {
     background-image: url("img/ice-cream-bg.jpg");
     background-size: cover;
   }
