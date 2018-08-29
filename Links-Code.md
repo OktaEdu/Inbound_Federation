@@ -7,6 +7,7 @@ https://2012r2std.oktaice.local/adfs/ls/IdpInitiatedSignOnPage
 ADFS Config:
 
   IdP Issuer URI: http://2012r2std.oktaice.local/adfs/services/trust
+  
   IdP Single Sign-on URL: http://2012r2std.oktaice.local/adfs/ls
   
 ADFS - Okta Sign On URL:
