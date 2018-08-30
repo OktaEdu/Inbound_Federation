@@ -44,6 +44,21 @@ String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com"
   #okta-sign-in .okta-form-title{
     color: #FFFFFF;
   }
+  #okta-sign-in .link.help.js-help{
+    color: #FFFFFF;
+  }
+  #okta-sign-in .link.js-forgot-password{
+    color: #FFFFFF;
+  }
+  #okta-sign-in .link.js-unlock{
+    color: #FFFFFF;
+  }
+  #okta-sign-in .link.js-custom{
+    color: #FFFFFF;
+  }
+  #okta-sign-in .link.js-help-link{
+    color: #FFFFFF;
+  }
 </style>
 ```
 ### Step 4:
