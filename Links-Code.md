@@ -7,9 +7,9 @@ https://<span></span>2012r2std.oktaice.local/adfs/ls/IdpInitiatedSignOnPage
 
 #### ADFS Config:
 
-  #### IdP Issuer URI: ###### http://<span></span>2012r2std.oktaice.local/adfs/services/trust
+  IdP Issuer URI: http://<span></span>2012r2std.oktaice.local/adfs/services/trust
   
-  #### IdP Single Sign-on URL: ###### http://<span></span>2012r2std.oktaice.local/adfs/ls
+  IdP Single Sign-on URL: http://<span></span>2012r2std.oktaice.local/adfs/ls
   
   
   
