@@ -62,7 +62,7 @@ String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com"
 </style>
 ```
 ### Step 4:
-```html
+```css
 var oktaSignIn = new OktaSignIn({
   baseUrl: orgUrl,
   logo: '/img/ice-logo.png'
