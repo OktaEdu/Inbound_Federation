@@ -28,7 +28,7 @@ String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com"
 # Lab 3-2
 ## Rebrand the Sign-In Widget Page and Login Container
 ### Step 2:
-```html
+```css
 <style>
   body {
     background-image: url("img/ice-cream-bg.jpg");
@@ -70,7 +70,7 @@ var oktaSignIn = new OktaSignIn({
 ```
 ## Customize the Sign-In Widget Settings
 ### Step 2:
-```html
+```css
 labels: {
   'primaryauth.title': 'Okta Ice SSO',
   'primaryauth.username.tooltip': 'Forgot your ID? Call <u>800-ICE-HELP</u>',
