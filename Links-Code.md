@@ -5,7 +5,7 @@
 https://<span></span>2012r2std.oktaice.local/adfs/ls/IdpInitiatedSignOnPage
 
 
-### ADFS Config:
+### ADFS IdP Config -  Okta:
 
   IdP Issuer URI: http://<span></span>2012r2std.oktaice.local/adfs/services/trust
   
