@@ -28,7 +28,7 @@ String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com"
 # Lab 3-2
 ## Rebrand the Sign-In Widget Page and Login Container
 ### Step 2:
-```
+```html
 <style>
   body {
     background-image: url("img/ice-cream-bg.jpg");
