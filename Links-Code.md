@@ -60,17 +60,17 @@ String.substringBefore(user.email, "@") + ".oktaice###@oktaice###.com"
     color: #FFFFFF;
   }
 </style>
-```html
+```
 ### Step 4:
-```html
+```
 var oktaSignIn = new OktaSignIn({
   baseUrl: orgUrl,
   logo: '/img/ice-logo.png'
 });
-```html
+```
 ## Customize the Sign-In Widget Settings
 ### Step 2:
-```html
+```
 labels: {
   'primaryauth.title': 'Okta Ice SSO',
   'primaryauth.username.tooltip': 'Forgot your ID? Call <u>800-ICE-HELP</u>',
@@ -88,4 +88,4 @@ features: {
   smsRecovery: true,
   selfServiceUnlock: true
 }
-```html
+```
